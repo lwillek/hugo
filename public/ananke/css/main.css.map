@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/lutz/git/github/lwillek/quickstart",
+	"sourceRoot": "/Users/lutz/git/github/lwillek/hugo",
 	"sources": [
 		"ananke/css/main.css"
 	],

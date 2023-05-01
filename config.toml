@@ -1,5 +1,0 @@
-baseURL = 'https://lug.berlin/'
-languageCode = 'de-de'
-title = 'Local User Groups · Berlin'
-theme = 'ananke'
-cleanDestinationDir = 'true'

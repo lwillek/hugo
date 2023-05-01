@@ -5,16 +5,6 @@
     <link>https://lug.berlin/</link>
     <description>Recent content on Local User Groups · Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
-    <lastBuildDate>Mon, 01 May 2023 09:38:29 +0200</lastBuildDate><atom:link href="https://lug.berlin/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://lug.berlin/posts/my-first-post/</link>
-      <pubDate>Mon, 01 May 2023 09:38:29 +0200</pubDate>
-      
-      <guid>https://lug.berlin/posts/my-first-post/</guid>
-      <description>Hello World </description>
-    </item>
-    
+    <language>de-de</language><atom:link href="https://lug.berlin/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
